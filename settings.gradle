@@ -1,0 +1,2 @@
+rootProject.name = 'demo-gradle'
+include ':test-module1', ':test-module2'
